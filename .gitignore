@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Werkzeuge
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Betriebssystem / OneDrive
+Thumbs.db
+desktop.ini
+.DS_Store

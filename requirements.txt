@@ -1,0 +1,9 @@
+# Getestet mit Python 3.12.10 unter Windows 11.
+# Versionen in Klammern sind die tatsaechlich getesteten Staende.
+
+numpy>=2.0            # (2.4.3)  Lineare Algebra, Distanzmatrizen
+scipy>=1.13           # (1.17.1) COBYLA-Optimierung in Demo 02
+qiskit>=2.0           # (2.4.2)  Schaltkreise, SparsePauliOp, Primitives
+qiskit-aer>=0.15      # (0.17.2) Simulator fuer die QAOA-Demos
+qiskit-algorithms>=0.3 # (0.4.0) VQE und NumPyMinimumEigensolver in Demo 05
+ortools>=9.10         # (9.15.6755) CP-SAT-Solver in Demo 04

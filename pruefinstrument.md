@@ -2,7 +2,7 @@
 
 Vier Fragen, mit denen sich eine öffentliche Behauptung zu
 Quantencomputing in der Chemie prüfen lässt. Sie folgen aus den
-Messungen in `demos/02_wo_es_bricht.ipynb` und brauchen keine
+Messungen in `demos/02_messbudget_gatter_basissatz.ipynb` und brauchen keine
 Spezialkenntnisse, nur die Bereitschaft, nach Zahlen zu fragen.
 
 ## 1. Lief es auf Hardware oder im Simulator?

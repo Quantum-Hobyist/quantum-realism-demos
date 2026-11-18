@@ -7,3 +7,5 @@ qiskit>=2.0           # (2.4.2)  Schaltkreise, SparsePauliOp, Primitives
 qiskit-aer>=0.15      # (0.17.2) Simulator fuer die QAOA-Demos
 qiskit-algorithms>=0.3 # (0.4.0) VQE und NumPyMinimumEigensolver in Demo 05
 ortools>=9.10         # (9.15.6755) CP-SAT-Solver in Demo 04
+pyscf
+qiskit-nature
